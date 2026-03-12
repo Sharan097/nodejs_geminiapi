@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_gemapi",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "index": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.44.0",
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
